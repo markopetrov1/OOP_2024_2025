@@ -3,6 +3,11 @@ project(OOP_2024_25)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(zad1 aud2/zad1.cpp)
-add_executable(zad2 aud2/zad2.cpp)
-add_executable(zad3 aud2/zad3.cpp)
+add_executable(aud2_zad1 aud2/zad1.cpp)
+add_executable(aud2_zad2 aud2/zad2.cpp)
+add_executable(aud2_zad3 aud2/zad3.cpp)
+
+add_executable(aud3_zad1 aud3/zad1.cpp)
+add_executable(aud3_zad2 aud3/zad2.cpp)
+add_executable(aud3_zad3 aud3/zad3.cpp)
+add_executable(aud3_zad4 aud3/zad4.cpp)

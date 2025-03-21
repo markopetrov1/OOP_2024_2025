@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "zad1"
+			"path" : "aud2_zad1"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "zad1::@6890427a1f51a3e7e1df",
+	"id" : "aud2_zad1::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "zad1",
-	"nameOnDisk" : "zad1",
+	"name" : "aud2_zad1",
+	"nameOnDisk" : "aud2_zad1",
 	"paths" : 
 	{
 		"build" : ".",
