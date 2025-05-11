@@ -5,5 +5,8 @@
 /Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/aud3_zad2.dir
 /Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/aud3_zad3.dir
 /Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/aud3_zad4.dir
+/Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/example_abstract.dir
+/Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/aud8_zad1.dir
+/Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/aud8_zad2.dir
 /Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug/CMakeFiles/rebuild_cache.dir

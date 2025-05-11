@@ -11,3 +11,8 @@ add_executable(aud3_zad1 aud3/zad1.cpp)
 add_executable(aud3_zad2 aud3/zad2.cpp)
 add_executable(aud3_zad3 aud3/zad3.cpp)
 add_executable(aud3_zad4 aud3/zad4.cpp)
+
+
+add_executable(example_abstract aud8/example_abstract.cpp)
+add_executable(aud8_zad1 aud8/zad1.cpp)
+add_executable(aud8_zad2 aud8/zad2.cpp)
