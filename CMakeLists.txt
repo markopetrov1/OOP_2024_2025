@@ -16,3 +16,11 @@ add_executable(aud3_zad4 aud3/zad4.cpp)
 add_executable(example_abstract aud8/example_abstract.cpp)
 add_executable(aud8_zad1 aud8/zad1.cpp)
 add_executable(aud8_zad2 aud8/zad2.cpp)
+
+add_executable(aud9_zad1 aud9/zad1.cpp)
+add_executable(aud9_zad2 aud9/zad2.cpp)
+
+add_executable(aud10_zad1 aud10/zad1.cpp)
+add_executable(aud10_zad2 aud10/zad2.cpp)
+add_executable(aud10_zad3 aud10/zad3.cpp)
+add_executable(example aud10/example.cpp)

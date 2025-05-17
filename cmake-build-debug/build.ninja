@@ -350,6 +350,192 @@ build aud8_zad2: CXX_EXECUTABLE_LINKER__aud8_zad2_Debug CMakeFiles/aud8_zad2.dir
   TARGET_FILE = aud8_zad2
   TARGET_PDB = aud8_zad2.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target aud9_zad1
+
+
+#############################################
+# Order-only phony target for aud9_zad1
+
+build cmake_object_order_depends_target_aud9_zad1: phony || CMakeFiles/aud9_zad1.dir
+
+build CMakeFiles/aud9_zad1.dir/aud9/zad1.cpp.o: CXX_COMPILER__aud9_zad1_Debug /Users/Marko/CLionProjects/OOP-2024-25/aud9/zad1.cpp || cmake_object_order_depends_target_aud9_zad1
+  DEP_FILE = CMakeFiles/aud9_zad1.dir/aud9/zad1.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/aud9_zad1.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud9_zad1.dir/aud9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud9_zad1
+
+
+#############################################
+# Link the executable aud9_zad1
+
+build aud9_zad1: CXX_EXECUTABLE_LINKER__aud9_zad1_Debug CMakeFiles/aud9_zad1.dir/aud9/zad1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/aud9_zad1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud9_zad1
+  TARGET_PDB = aud9_zad1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud9_zad2
+
+
+#############################################
+# Order-only phony target for aud9_zad2
+
+build cmake_object_order_depends_target_aud9_zad2: phony || CMakeFiles/aud9_zad2.dir
+
+build CMakeFiles/aud9_zad2.dir/aud9/zad2.cpp.o: CXX_COMPILER__aud9_zad2_Debug /Users/Marko/CLionProjects/OOP-2024-25/aud9/zad2.cpp || cmake_object_order_depends_target_aud9_zad2
+  DEP_FILE = CMakeFiles/aud9_zad2.dir/aud9/zad2.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/aud9_zad2.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud9_zad2.dir/aud9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud9_zad2
+
+
+#############################################
+# Link the executable aud9_zad2
+
+build aud9_zad2: CXX_EXECUTABLE_LINKER__aud9_zad2_Debug CMakeFiles/aud9_zad2.dir/aud9/zad2.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/aud9_zad2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud9_zad2
+  TARGET_PDB = aud9_zad2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud10_zad1
+
+
+#############################################
+# Order-only phony target for aud10_zad1
+
+build cmake_object_order_depends_target_aud10_zad1: phony || CMakeFiles/aud10_zad1.dir
+
+build CMakeFiles/aud10_zad1.dir/aud10/zad1.cpp.o: CXX_COMPILER__aud10_zad1_Debug /Users/Marko/CLionProjects/OOP-2024-25/aud10/zad1.cpp || cmake_object_order_depends_target_aud10_zad1
+  DEP_FILE = CMakeFiles/aud10_zad1.dir/aud10/zad1.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/aud10_zad1.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud10_zad1.dir/aud10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud10_zad1
+
+
+#############################################
+# Link the executable aud10_zad1
+
+build aud10_zad1: CXX_EXECUTABLE_LINKER__aud10_zad1_Debug CMakeFiles/aud10_zad1.dir/aud10/zad1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/aud10_zad1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud10_zad1
+  TARGET_PDB = aud10_zad1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud10_zad2
+
+
+#############################################
+# Order-only phony target for aud10_zad2
+
+build cmake_object_order_depends_target_aud10_zad2: phony || CMakeFiles/aud10_zad2.dir
+
+build CMakeFiles/aud10_zad2.dir/aud10/zad2.cpp.o: CXX_COMPILER__aud10_zad2_Debug /Users/Marko/CLionProjects/OOP-2024-25/aud10/zad2.cpp || cmake_object_order_depends_target_aud10_zad2
+  DEP_FILE = CMakeFiles/aud10_zad2.dir/aud10/zad2.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/aud10_zad2.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud10_zad2.dir/aud10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud10_zad2
+
+
+#############################################
+# Link the executable aud10_zad2
+
+build aud10_zad2: CXX_EXECUTABLE_LINKER__aud10_zad2_Debug CMakeFiles/aud10_zad2.dir/aud10/zad2.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/aud10_zad2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud10_zad2
+  TARGET_PDB = aud10_zad2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud10_zad3
+
+
+#############################################
+# Order-only phony target for aud10_zad3
+
+build cmake_object_order_depends_target_aud10_zad3: phony || CMakeFiles/aud10_zad3.dir
+
+build CMakeFiles/aud10_zad3.dir/aud10/zad3.cpp.o: CXX_COMPILER__aud10_zad3_Debug /Users/Marko/CLionProjects/OOP-2024-25/aud10/zad3.cpp || cmake_object_order_depends_target_aud10_zad3
+  DEP_FILE = CMakeFiles/aud10_zad3.dir/aud10/zad3.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/aud10_zad3.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud10_zad3.dir/aud10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud10_zad3
+
+
+#############################################
+# Link the executable aud10_zad3
+
+build aud10_zad3: CXX_EXECUTABLE_LINKER__aud10_zad3_Debug CMakeFiles/aud10_zad3.dir/aud10/zad3.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/aud10_zad3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud10_zad3
+  TARGET_PDB = aud10_zad3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target example
+
+
+#############################################
+# Order-only phony target for example
+
+build cmake_object_order_depends_target_example: phony || CMakeFiles/example.dir
+
+build CMakeFiles/example.dir/aud10/example.cpp.o: CXX_COMPILER__example_Debug /Users/Marko/CLionProjects/OOP-2024-25/aud10/example.cpp || cmake_object_order_depends_target_example
+  DEP_FILE = CMakeFiles/example.dir/aud10/example.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/example.dir
+  OBJECT_FILE_DIR = CMakeFiles/example.dir/aud10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target example
+
+
+#############################################
+# Link the executable example
+
+build example: CXX_EXECUTABLE_LINKER__example_Debug CMakeFiles/example.dir/aud10/example.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/example.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = example
+  TARGET_PDB = example.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -384,7 +570,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug
 
-build all: phony aud2_zad1 aud2_zad2 aud2_zad3 aud3_zad1 aud3_zad2 aud3_zad3 aud3_zad4 example_abstract aud8_zad1 aud8_zad2
+build all: phony aud2_zad1 aud2_zad2 aud2_zad3 aud3_zad1 aud3_zad2 aud3_zad3 aud3_zad4 example_abstract aud8_zad1 aud8_zad2 aud9_zad1 aud9_zad2 aud10_zad1 aud10_zad2 aud10_zad3 example
 
 # =============================================================================
 # Built-in targets
