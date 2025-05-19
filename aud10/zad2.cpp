@@ -37,6 +37,11 @@ int main(){
        }
     }
 
+//  last line in the file doesn't have \n - we should check the counter once again
+    if(counterRow >= 10){
+        totalRows++;
+    }
+
     cout<<"Vkupno "<<totalRows<<" reda imaat povekje od 10 samoglaski."<<endl;
     cout<<"Vo datotekata ima vkupno "<<totalCounter<<" samoglaski"<<endl;
 
