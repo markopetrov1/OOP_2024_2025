@@ -24,3 +24,6 @@ add_executable(aud10_zad1 aud10/zad1.cpp)
 add_executable(aud10_zad2 aud10/zad2.cpp)
 add_executable(aud10_zad3 aud10/zad3.cpp)
 add_executable(example aud10/example.cpp)
+
+add_executable(kol_zad1 kolokviumski/zad1.cpp)
+add_executable(kol_zad2 kolokviumski/zad2.cpp)

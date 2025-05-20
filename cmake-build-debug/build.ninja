@@ -536,6 +536,68 @@ build example: CXX_EXECUTABLE_LINKER__example_Debug CMakeFiles/example.dir/aud10
   TARGET_FILE = example
   TARGET_PDB = example.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target kol_zad1
+
+
+#############################################
+# Order-only phony target for kol_zad1
+
+build cmake_object_order_depends_target_kol_zad1: phony || CMakeFiles/kol_zad1.dir
+
+build CMakeFiles/kol_zad1.dir/kolokviumski/zad1.cpp.o: CXX_COMPILER__kol_zad1_Debug /Users/Marko/CLionProjects/OOP-2024-25/kolokviumski/zad1.cpp || cmake_object_order_depends_target_kol_zad1
+  DEP_FILE = CMakeFiles/kol_zad1.dir/kolokviumski/zad1.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/kol_zad1.dir
+  OBJECT_FILE_DIR = CMakeFiles/kol_zad1.dir/kolokviumski
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kol_zad1
+
+
+#############################################
+# Link the executable kol_zad1
+
+build kol_zad1: CXX_EXECUTABLE_LINKER__kol_zad1_Debug CMakeFiles/kol_zad1.dir/kolokviumski/zad1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/kol_zad1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = kol_zad1
+  TARGET_PDB = kol_zad1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target kol_zad2
+
+
+#############################################
+# Order-only phony target for kol_zad2
+
+build cmake_object_order_depends_target_kol_zad2: phony || CMakeFiles/kol_zad2.dir
+
+build CMakeFiles/kol_zad2.dir/kolokviumski/zad2.cpp.o: CXX_COMPILER__kol_zad2_Debug /Users/Marko/CLionProjects/OOP-2024-25/kolokviumski/zad2.cpp || cmake_object_order_depends_target_kol_zad2
+  DEP_FILE = CMakeFiles/kol_zad2.dir/kolokviumski/zad2.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/kol_zad2.dir
+  OBJECT_FILE_DIR = CMakeFiles/kol_zad2.dir/kolokviumski
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kol_zad2
+
+
+#############################################
+# Link the executable kol_zad2
+
+build kol_zad2: CXX_EXECUTABLE_LINKER__kol_zad2_Debug CMakeFiles/kol_zad2.dir/kolokviumski/zad2.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6
+  OBJECT_DIR = CMakeFiles/kol_zad2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = kol_zad2
+  TARGET_PDB = kol_zad2.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -570,7 +632,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/Marko/CLionProjects/OOP-2024-25/cmake-build-debug
 
-build all: phony aud2_zad1 aud2_zad2 aud2_zad3 aud3_zad1 aud3_zad2 aud3_zad3 aud3_zad4 example_abstract aud8_zad1 aud8_zad2 aud9_zad1 aud9_zad2 aud10_zad1 aud10_zad2 aud10_zad3 example
+build all: phony aud2_zad1 aud2_zad2 aud2_zad3 aud3_zad1 aud3_zad2 aud3_zad3 aud3_zad4 example_abstract aud8_zad1 aud8_zad2 aud9_zad1 aud9_zad2 aud10_zad1 aud10_zad2 aud10_zad3 example kol_zad1 kol_zad2
 
 # =============================================================================
 # Built-in targets
